@@ -5,6 +5,10 @@
 data/
 *.csv
 
+# Plot files
+plots/
+*.png
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
